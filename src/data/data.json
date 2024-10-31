@@ -1,0 +1,59 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "s.ol_lala",
+        "fullName": "솔라라",
+        "profileImage": "https://example.com/profile1.jpg",
+        "posts": 3,
+        "followers": 1000,
+        "following": 1000,
+        "bio": "반갑습니다.",
+        "website": "https://www.instagram.com",
+        "editProfile": true
+      },
+      {
+        "id": 2,
+        "username": "ceos.sinchon",
+        "fullName": "CEOS",
+        "profileImage": "https://example.com/profile2.jpg",
+        "followers": 736,
+        "following": 174,
+        "bio": "세오스입니다.",
+        "website": "https://ceos.example.com",
+        "editProfile": false
+      }
+    ],
+    "chats": [
+      {
+        "id": 1,
+        "participants": [1, 2],
+        "lastMessage": "네! 실험입니다 정말 축하합니다",
+        "updatedAt": "2024-09-25T15:00:00Z"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": 1,
+        "chatId": 1,
+        "senderId": 2,
+        "content": "안녕하세요! 세오스 합격하셨습니다 ^^",
+        "sentAt": "2024-09-25T14:30:00Z"
+      },
+      {
+        "messageId": 2,
+        "chatId": 1,
+        "senderId": 1,
+        "content": "네?? 정말합격인가요??",
+        "sentAt": "2024-09-25T14:32:00Z"
+      },
+      {
+        "messageId": 3,
+        "chatId": 1,
+        "senderId": 2,
+        "content": "네! 실험입니다 정말 축하합니다",
+        "sentAt": "2024-09-25T14:35:00Z"
+      }
+    ]
+  }
+  

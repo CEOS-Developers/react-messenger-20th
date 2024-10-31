@@ -1,5 +1,5 @@
 {
-  "name": "react-messenger-19th",
+  "name": "react-messenger-20th",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,13 +8,18 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.91",
-    "@types/react": "^18.2.69",
-    "@types/react-dom": "^18.2.22",
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
+    "lucide-react": "^0.454.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
+    "react-window": "^1.8.10",
+    "tailwind-scrollbar-hide": "^1.1.7",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "zustand": "^5.0.0-rc.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +44,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@svgr/webpack": "^8.1.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "^3.4.13"
   }
 }
