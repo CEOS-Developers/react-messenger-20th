@@ -1,0 +1,20 @@
+{
+  "id": "7",
+  "sender": "김수연",
+  "messages": [
+    {
+      "id": "f",
+      "sender": "me",
+      "message": "안녕 희원아",
+      "timeStamp": "오후 10:07",
+      "date": "2024-09-26"
+    },
+    {
+      "id": "f1",
+      "sender": "you",
+      "message": "언니한테 말버릇이그게모니",
+      "timeStamp": "오후 10:07",
+      "date": "2024-09-26"
+    }
+  ]
+}

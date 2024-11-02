@@ -1,0 +1,20 @@
+{
+  "id": "9",
+  "sender": "남승현",
+  "messages": [
+    {
+      "id": "h",
+      "sender": "me",
+      "message": "시험은 잘 봤니?",
+      "timeStamp": "오후 10:07",
+      "date": "2024-09-26"
+    },
+    {
+      "id": "h1",
+      "sender": "you",
+      "message": "..너 진짜 싫다",
+      "timeStamp": "오후 10:07",
+      "date": "2024-09-26"
+    }
+  ]
+}

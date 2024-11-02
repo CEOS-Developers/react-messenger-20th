@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "userName": "이지민",
+    "profileImg": "",
+    "isOnline": false,
+    "email": "jimin0416@gmail.com",
+    "phoneNum": "01096222790",
+    "instagram": "o_ojj_min"
+  },
+  {
+    "id": "2",
+    "userName": "이도연",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "leeee1225@gmail.com",
+    "phoneNum": "01011112222",
+    "instagram": "lee"
+  },
+  {
+    "id": "3",
+    "userName": "강다혜",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "pssst@gmail.com",
+    "phoneNum": "01033334444",
+    "instagram": "lee"
+  },
+  {
+    "id": "4",
+    "userName": "조은호",
+    "profileImg": "",
+    "isOnline": false,
+    "email": "niceho@gmail.com",
+    "phoneNum": "01044445555",
+    "instagram": "lee"
+  },
+  {
+    "id": "5",
+    "userName": "이채원",
+    "profileImg": "",
+    "isOnline": false,
+    "email": "chaewon@gmail.com",
+    "phoneNum": "01055556666",
+    "instagram": "lee"
+  },
+  {
+    "id": "6",
+    "userName": "이채린",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "designchae@gmail.com",
+    "phoneNum": "01066667777",
+    "instagram": "lee"
+  },
+  {
+    "id": "7",
+    "userName": "김수연",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "suuuuuu@gmail.com",
+    "phoneNum": "01077778888",
+    "instagram": "lee"
+  },
+  {
+    "id": "8",
+    "userName": "문서영",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "backzero@gmail.com",
+    "phoneNum": "01088889999",
+    "instagram": "lee"
+  },
+  {
+    "id": "9",
+    "userName": "남승현",
+    "profileImg": "",
+    "isOnline": true,
+    "email": "backsouthwin@gmail.com",
+    "phoneNum": "01099990000",
+    "instagram": "lee"
+  }
+]

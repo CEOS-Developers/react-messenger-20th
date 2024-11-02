@@ -1,0 +1,21 @@
+{
+  "id": "4",
+  "sender": "조은호",
+  "messages": [
+    {
+      "id": "d",
+      "sender": "me",
+      "message": "안녕 희원아",
+      "timeStamp": "오후 10:07",
+      "date": "2024-09-26"
+    },
+    {
+      "id": "d1",
+      "sender": "you",
+      "message": "오후 10:07",
+      "timeStamp": "21:41:24",
+      "date": "2024-09-26",
+      "emoji": ""
+    }
+  ]
+}
