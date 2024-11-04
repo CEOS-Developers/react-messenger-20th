@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "text": "머하밍??",
+    "sender": "CEOS",
+    "receiver": "김류원",
+    "time": "2024-10-31T12:34:56.000Z",
+    "chatRoomId": "CEOS"
+  },
+  {
+    "id": 2,
+    "text": "과제중🤮🤮",
+    "sender": "김류원",
+    "receiver": "CEOS",
+    "time": "2024-10-31T12:35:56.000Z",
+    "chatRoomId": "CEOS"
+  },
+  {
+    "id": 3,
+    "text": "🤦‍♀️🤦‍♀️",
+    "sender": "CEOS",
+    "receiver": "김류원",
+    "time": "2024-10-31T12:36:56.000Z",
+    "chatRoomId": "CEOS"
+  },
+  {
+    "id": 4,
+    "text": "차은우가 보낸 메세지",
+    "sender": "차은우",
+    "receiver": "김류원",
+    "time": "2024-10-31T12:37:56.000Z",
+    "chatRoomId": "차은우"
+  },
+  {
+    "id": 5,
+    "text": "뷔가 보낸 메세지",
+    "sender": "뷔",
+    "receiver": "김류원",
+    "time": "2024-10-31T12:38:56.000Z",
+    "chatRoomId": "뷔"
+  }
+]
